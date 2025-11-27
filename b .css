@@ -1,0 +1,9 @@
+body {
+    background-image: url("./img/img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    overflow: hidden;
+    height: 100vh;
+    width: 100%;
+}
